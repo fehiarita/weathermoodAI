@@ -13,9 +13,6 @@ Um assistente empático que sente o clima e ajuda você a sair de casa na hora c
   <a href="https://groq.com/">
     <img src="https://img.shields.io/badge/Powered%20by-Groq%20API-8A2BE2">
   </a>
-  <a href="https://github.com/fehiarita/weathermood-plus/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-green.svg">
-  </a>
 </p>
 
 ---
